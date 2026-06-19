@@ -2,3 +2,5 @@ file 2 11:11 mainFeature B line 1
 Main adds another line
 Person B added this line
 Person A local change
+Person B second change
+
