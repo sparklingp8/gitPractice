@@ -1,2 +1,3 @@
-file 2 11:11 mainFeature B line 1
+file 2 main
+Feature B line 1
 Main adds another line
