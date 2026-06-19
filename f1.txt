@@ -1,1 +1,1 @@
-Main says: this line belongs to main
+Resolved: combined content from main and feature-A
